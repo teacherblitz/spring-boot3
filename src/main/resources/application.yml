@@ -1,0 +1,9 @@
+server:
+  port: 8000
+  # 优雅停机
+  shutdown: graceful
+
+# 线程池核心配置
+thread:
+  corePoolSize: 2
+  maximumPoolSize: 3
