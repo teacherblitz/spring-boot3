@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.teacherblitz</groupId>
-    <artifactId>spring-boot3</artifactId>
+    <artifactId>strategy-factory</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot3</name>
-    <description>Demo project for Spring Boot</description>
+    <name>strategy-factory</name>
+    <description>策略工厂模式</description>
 
     <properties>
         <java.version>1.8</java.version>
